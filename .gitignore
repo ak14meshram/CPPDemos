@@ -32,3 +32,8 @@
 *.app
 /CPPDemos/Person/Person.vcxproj.filters
 /CPPDemos/CPPDemos.VC.VC.opendb
+/CPPDemos/Person/Person.vcxproj.user
+/CPPDemos/Person/Debug
+/CPPDemos/Debug
+/CPPDemos/.vs/CPPDemos/v15
+/.vs
