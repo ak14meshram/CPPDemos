@@ -37,3 +37,12 @@
 /CPPDemos/Debug
 /CPPDemos/.vs/CPPDemos/v15
 /.vs
+/Raylib/x64/Debug
+/Raylib/testProject/x64/Debug
+/Raylib/SnakeGame/x64/Debug
+/Raylib/SnakeGame/SnakeGame.vcxproj.user
+/Raylib/SnakeGame/SnakeGame.vcxproj.filters
+/Raylib/testProject
+/Raylib/Raylib/x64/Debug
+/Raylib/Raylib
+/Raylib/.vs/Raylib/v15/ipch
