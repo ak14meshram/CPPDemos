@@ -1,16 +1,17 @@
 #include "Defines.h"
 #include "Snake.h"
+#include "Grid.h"
 using namespace snakegame;
 using namespace math;
 
 Snake::Snake(int size)
 {
-
+	cellSize_ = size;
 }
 
 const math::INTPoint2D& Snake::head() const
 {
-
+	
 }
 const math::INTPoint2D& Snake :: tail() const
 {

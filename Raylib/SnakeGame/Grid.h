@@ -12,7 +12,9 @@ namespace snakegame
 
 		void generateFood();
 		
-		void getMinMax(math::INTPoint2D& min, math::INTPoint2D& max) const;
+		void getMinMax() const;
+		//added
+		void setMinMax(math::INTPoint2D& min, math::INTPoint2D& max) const;
 
 		math::INTPoint2D& getFood() const;
 

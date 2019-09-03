@@ -18,7 +18,12 @@ void Grid::generateFood()
 
 }
 
-void Grid::getMinMax(math::INTPoint2D& min, math::INTPoint2D& max) const
+void Grid::getMinMax() const
+{
+
+}
+
+void Grid::setMinMax(math::INTPoint2D& min, math::INTPoint2D& max) const
 {
 
 }
